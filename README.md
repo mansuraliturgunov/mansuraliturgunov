@@ -62,9 +62,9 @@
     <td width="60%" align="left" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
-    <!-- O'ng tomon: Qimirlaydigan dasturchi GIF rasmi -->
+    <!-- O'ng tomon: Sen tanlagan o'sha dasturchi GIF rasmi -->
     <td width="40%" align="center" valign="middle">
-      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiZnd5N3V3cXN3Ym13d2N0amM4bXN5Y2t4Yms5ZXg0ZXg4YmZzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWGlfj6/giphy.gif]https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif)" width="220px">
+      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220px">
     </td>
   </tr>
 </table>
