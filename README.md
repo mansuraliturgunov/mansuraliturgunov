@@ -1,4 +1,5 @@
-# Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&animation=fadeIn" />
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
