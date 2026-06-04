@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=php&fill=777BB4" width="50"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=FF2D20" width="50"/>
+</p>
 <!--
 **mansuraliturgunov/mansuraliturgunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
