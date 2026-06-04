@@ -8,7 +8,7 @@
 </a>
 </p>
 ## Things I use on a daily basis
-
+<br>
 <p align="left">   
   <!-- Backend & Languages -->
   <a href="https://github.com/harish-sethuraman/readme-components">
