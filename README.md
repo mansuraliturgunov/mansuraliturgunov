@@ -53,5 +53,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOYDALANUVCHI_NOMING&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansuraliturgunov
+&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
