@@ -53,5 +53,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
