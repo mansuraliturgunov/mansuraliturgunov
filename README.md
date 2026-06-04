@@ -52,3 +52,6 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6">  
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FOYDALANUVCHI_NOMING&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
