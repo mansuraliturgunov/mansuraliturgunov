@@ -7,8 +7,9 @@
 <img src="https://readme-components.vercel.app/api?component=text&text=IM%20MANSURALI&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>
+
 ## Things I use on a daily basis
-<br>
+
 <p align="left">   
   <!-- Backend & Languages -->
   <a href="https://github.com/harish-sethuraman/readme-components">
