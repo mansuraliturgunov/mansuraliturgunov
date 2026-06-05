@@ -60,11 +60,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" align="left" valign="top">
-      <img src="https://raw.githubusercontent.com/mansuraliturgunov/mansuraliturgunov/main/1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="220px">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220px">
-      <img src="https://media1.tenor.com/m/YNqsJbmb_yMAAAAC/coding.gif" width="220px">
+      <img src="https://raw.githubusercontent.com/mansuraliturgunov/mansuraliturgunov/main/1_vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="220px">
     </td>
   </tr>
 </table>
@@ -73,3 +72,4 @@
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=tokyo-night" />
+
