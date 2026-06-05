@@ -65,7 +65,7 @@
     </td>
     <!-- O'ng tomon: Sen tanlagan o'sha dasturchi GIF rasmi -->
     <td width="40%" align="center" valign="middle">
-      <img src="https://media1.tenor.com/m/YNqsJbmb_yMAAAAC/coding.gif" width="220px">
+     <img src="./coding.gif" width="220px">
     </td>
   </tr>
 </table>
