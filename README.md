@@ -61,7 +61,7 @@
   <tr>
     <!-- Chap tomon: GitHub Statistika kartochkasi -->
     <td width="60%" align="left" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=auto" alt="GitHub Stats" />
     </td>
     <!-- O'ng tomon: Sen tanlagan o'sha dasturchi GIF rasmi -->
     <td width="40%" align="center" valign="middle">
@@ -73,5 +73,5 @@
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=auto" />
 
