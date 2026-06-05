@@ -68,8 +68,28 @@
   </tr>
 </table>
 
+## 📈 Contribution Activity
 
-## Contribution Activity
+<!-- 3D Contribution Calendar - Self-generated via GitHub Actions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MervinPraison/MervinPraison/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=tokyo-night" />
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MervinPraison/MervinPraison/main/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MervinPraison/MervinPraison/main/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MervinPraison/MervinPraison/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
+---
+
+## 🌐 Connect with Me
+
+- [Telegram](https://t.me/Mansurali_566)
+- [LinkedIn](https://linkedin.com/in/mansurali-turgʻunov)
+- [SuperNova Website](https://www.supernovalabs.com)
+
+---
