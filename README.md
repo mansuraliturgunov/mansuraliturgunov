@@ -88,8 +88,14 @@
 
 ## 🌐 Connect with Me
 
-- [Telegram](https://t.me/Mansurali_566)
-- [LinkedIn](https://linkedin.com/in/mansurali-turgʻunov)
-- [SuperNova Website](https://www.supernovalabs.com)
 
+<a href="https://t.me/Mansurali_566">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=telegram&svgfill=229ED9">
+</a>
+<a href="mailto:mansuraliturgunov6@gmail.com">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gmail&svgfill=EA4335">
+</a>
+<a href="https://www.linkedin.com/in/mansurali-turgʻunov-91bb3940b/">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linkedin&svgfill=0A66C2">
+</a>
 ---
