@@ -57,21 +57,14 @@
 
 ## My GitHub Activity
 
-<table border="0" width="100%">
-  <tr>
-    <!-- Chap tomon: GitHub Statistika kartochkasi -->
-    <td width="60%" align="left" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mansuraliturgunov&show_icons=true&theme=auto" alt="GitHub Stats" />
-    </td>
-    <!-- O'ng tomon: Sen tanlagan o'sha dasturchi GIF rasmi -->
-    <td width="40%" align="center" valign="middle">
-     <img src="./coding.gif" width="220px">
-    </td>
-  </tr>
-</table>
-
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=auto" />
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=github-dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=github"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansuraliturgunov&theme=github" />
+</picture>
