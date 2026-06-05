@@ -70,11 +70,6 @@
 
 ## 📈 Contribution Activity
 
-<!-- 3D Contribution Calendar - Self-generated via GitHub Actions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MervinPraison/MervinPraison/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
-</p>
-
 <!-- Snake Animation -->
 <p align="center">
   <picture>
@@ -84,7 +79,6 @@
   </picture>
 </p>
 
----
 
 ## 🌐 Connect with Me
 
@@ -98,4 +92,3 @@
 <a href="https://www.linkedin.com/in/mansurali-turgʻunov-91bb3940b/">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linkedin&svgfill=0A66C2">
 </a>
----
