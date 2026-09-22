@@ -83,7 +83,7 @@
 ## 🌐 Connect with Me
 
 
-<a href="https://t.me/Mansurali_566">
+<a href="https://t.me/Mansura1i">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=telegram&svgfill=229ED9">
 </a>
 <a href="mailto:mansuraliturgunov6@gmail.com">
